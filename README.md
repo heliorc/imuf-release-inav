@@ -4,7 +4,10 @@ Hex releases for supported firmware.
 
 The hexes are aggregates of the firmware plus any updates to our IMUF code. They are concatenated into an aggregate using the provided concat.py script.
 
-<p>See https://github.com/heliorc/imuf-release/tree/legacy for old firmware releases</p>
+The source for the iNav binary within the aggregate are from here:
+
+https://github.com/heliorc/inav
+
 <p>See https://www.heliorc.com/wiring for how to hook up the HELIO SPRING.</p>
 <p>See https://www.heliorc.com/docs for more information on settings.</p>
 
